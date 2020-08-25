@@ -1,7 +1,7 @@
 {
   "name": "Silex",
-  "description": "Hackable website builder",
-  "logo": "https://github.com/TWINGSISTER/logo.png",
+  "description": "Front end builder",
+  "logo": "https://github.com/TWINGSISTER/Silex/logo.png",
   "repository":"https://github.com/TWINGSISTER/Silex.git",
 	"buildpacks": [
 		{
