@@ -1,8 +1,8 @@
 {
   "name": "Silex",
   "description": "Hackable website builder",
-  "logo": "https://user-images.githubusercontent.com/715377/45088401-2944d900-b109-11e8-8bae-54cf87724de9.png",
-  "repository":"https://github.com/silexlabs/Silex.git",
+  "logo": "https://github.com/TWINGSISTER/logo.png",
+  "repository":"https://github.com/TWINGSISTER/Silex.git",
 	"buildpacks": [
 		{
 			"url": "heroku/jvm"
