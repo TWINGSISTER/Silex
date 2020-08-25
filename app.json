@@ -1,7 +1,7 @@
 {
   "name": "Silex",
   "description": "Front end builder",
-  "logo": "https://github.com/TWINGSISTER/Silex/logo.png",
+  "logo": "https://github.com/TWINGSISTER/Silex/raw/master/logo.png",
   "repository":"https://github.com/TWINGSISTER/Silex.git",
 	"buildpacks": [
 		{
